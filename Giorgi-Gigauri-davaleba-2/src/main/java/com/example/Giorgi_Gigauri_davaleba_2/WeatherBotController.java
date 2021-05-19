@@ -11,7 +11,7 @@ public class WeatherBotController {
 
     @OnOpen
     public void handleOpen() {
-        System.out.println("Connected ...");
+
     }
 
     @OnMessage

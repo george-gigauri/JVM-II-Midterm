@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>JSP - Hello World</title>
+    <title>გიორგი გიგაური</title>
 </head>
 <body>
 <h1><%= "შუალედური გამოცდა" %>
