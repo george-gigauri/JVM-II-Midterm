@@ -28,7 +28,7 @@ public class WeatherBotService {
             return getCityWeather(msg) + "\n\n";
         }
 
-        return "\nSorry, Entered city can not be found. Please see available cities here: " +
+        return "\nSorry, Entered city can not be found. Please see available cities here: \n\n" +
                 cities + "\n\n";
     }
 
